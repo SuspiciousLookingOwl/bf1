@@ -4,7 +4,7 @@ An attempt to recreate Battlefield 1 main menu in web using [Svelte](https://sve
 
 It's not exactly the same as the real Battlefield 1 UI, but it's similar, also it's not really interactive yet, but I will add new features if I have some spare time.
 
-#### Demo: bf1.vincentjonathan.com
+#### Demo: [bf1.vincentjonathan.com](https://bf1.vincentjonathan.com)
 
 <img src="https://i.ibb.co/KsPfYt1/sp.jpg">
 <img src="https://i.ibb.co/RzMHDZd/mp.jpg">
