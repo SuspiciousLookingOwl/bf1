@@ -10,7 +10,7 @@
 	export let mode: Mode;
 </script>
 
-<div class="w-80 h-[36rem] bg-black bg-opacity-50 cursor-pointer">
+<div class="w-96 h-[36rem] bg-black bg-opacity-50 cursor-pointer">
 	<img class="h-80 object-cover" src={mode.banner} alt={mode.title} />
 
 	<div class="pt-6 px-4 space-y-2">

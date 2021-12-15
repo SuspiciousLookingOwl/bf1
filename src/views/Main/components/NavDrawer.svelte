@@ -16,8 +16,8 @@
 	];
 </script>
 
-<div class="w-24 border-r border-opacity-25 items-center">
-	<div class="mt-36 space-y-6">
+<div class="w-24 border-r border-opacity-25 items-center h-full">
+	<div class="pt-36 space-y-6">
 		{#each routes as { imageUrl: src, alt, isActive }}
 			<div class="cursor-pointer">
 				{#if isActive}
